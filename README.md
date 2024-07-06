@@ -14,11 +14,11 @@ To run this project locally, follow these steps:
 
 1. Clone the repository to your local machine:
     ```bash
-    git clone https://github.com/username/dice-rolling-game.git
+    git clone https://github.com/AaKaShAgArWaLs/Dice-Rolling-Game.git
     ```
 2. Navigate into the project directory:
     ```bash
-    cd dice-rolling-game
+    cd Dice-Rolling-Game
     ```
 3. Ensure you have Python installed. You can download it from [python.org](https://www.python.org/).
 
